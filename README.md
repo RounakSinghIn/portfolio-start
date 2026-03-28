@@ -1,2 +1,2 @@
-# portfolio-start
-This is test for learning for GitHub.
+# Professional Portfolio Journey.
+This repository tracks my mastery of version control and professional documentation.
