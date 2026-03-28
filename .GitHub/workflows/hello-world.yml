@@ -1,0 +1,9 @@
+name: Quality Check
+on: [pull_request]
+
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Say Hello
+        run: echo "Code quality check initiated for professional portfolio"
