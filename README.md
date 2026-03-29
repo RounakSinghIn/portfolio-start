@@ -5,7 +5,7 @@ A technical record of projects, certifications, documentations, open source or o
 ## Projects
 
 ### 01. Artificial Intelligence
-- *Projects will be linked here as they are committed.*
+* *Projects will be linked here as they are committed.*
 
 ### 02. Robotics
 - *Hardware schematics and firmware.*
