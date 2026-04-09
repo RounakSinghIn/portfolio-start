@@ -19,6 +19,5 @@ A technical record of projects, certifications, documentations, open source or o
 ---
 
 ## Credentials
-* [Certification Name] - [Issuing Body] - [Date]
-
+* **AI Tools Workshop** -- **Be10x** -- **November 30th 2025** 
 ---
